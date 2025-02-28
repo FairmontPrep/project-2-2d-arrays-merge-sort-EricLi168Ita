@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
+
 public class GameBoard extends JFrame {
     private static final int SIZE = 8;
     private JPanel[][] squares = new JPanel[SIZE][SIZE];
